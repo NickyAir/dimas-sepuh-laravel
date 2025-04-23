@@ -1,4 +1,3 @@
-// console.log("Hallo World!");
 let dimas = "suka cium orang";
 let dimasKevin = "suka mie ayam";
 
