@@ -1,0 +1,19 @@
+{
+  "name": "dimas-sepuh-laravel",
+  "version": "1.0 Beta Release",
+  "description": "SAYA AKAN TAMPIL DI STADION LONDON INGGRIS",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NickyAir/dimas-sepuh-laravel.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NickyAir/dimas-sepuh-laravel/issues"
+  },
+  "homepage": "https://github.com/NickyAir/dimas-sepuh-laravel#readme"
+}
